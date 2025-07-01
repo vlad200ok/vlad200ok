@@ -35,8 +35,7 @@ Munich, Germany · Dec 2024 – Present
 
 - Designed and led development of modular LLM-powered agent system for dynamic AutoML workflows, improving research productivity and platform flexibility.
 - Architected flexible platform integration for custom ML components, including quantum layers and proprietary pipelines.
-- Implemented secure sandboxing infrastructure for executing LLM-generated Python code with fault isolation.
-- Deployed system on Google Kubernetes Engine and Docker Swarm with high availability and CI/CD pipelines.
+- Designed secure sandboxing infrastructure for executing LLM-generated Python code with fault tolerance.
 - Reviewed design proposals and established architectural guidelines to improve reliability, testability, and observability.
 - Mentored backend and ML engineers; introduced standards adopted company-wide.
 
