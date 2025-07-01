@@ -56,5 +56,5 @@ Moscow, Russia · Jul 2021 – Nov 2024
 
 - **LLM Systems & Applied AI:** HuggingFace Transformers, PyTorch, LangChain, OpenAI API, agent-based workflows, reward modeling, RAG pipelines  
 - **Python Backend Engineering:** Python 3.10+, FastAPI, SQLAlchemy, asyncio, WebSockets, PostgreSQL, Redis, RabbitMQ  
-- **Infrastructure & MLOps:** Docker, Kubernetes (GKE), GitHub Actions, Service Mesh (Istio), CI/CD, observability (OpenTelemetry)  
+- **Infrastructure & MLOps:** Docker, Kubernetes (GKE), Helm, GitHub Actions, Service Mesh (Istio), CI/CD, observability (OpenTelemetry)  
 - **Engineering Culture:** Clean code, architectural design reviews, test-driven development, mentorship, cross-team collaboration
