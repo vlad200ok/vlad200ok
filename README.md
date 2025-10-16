@@ -31,7 +31,7 @@ _Sep 2020 – Feb 2023_
 ## Experience
 
 ### Terra Quantum — Senior AI Backend Engineer  
-Munich, Germany · Dec 2024 – Present
+Munich, Germany · Dec 2024 – Sep 2025
 
 - Designed and led development of modular LLM-powered agent system for dynamic AutoML workflows, improving research productivity and platform flexibility.
 - Architected flexible platform integration for custom ML components, including quantum layers and proprietary pipelines.
