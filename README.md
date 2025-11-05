@@ -6,7 +6,7 @@
 💻 [github.com/vlad200ok](https://github.com/vlad200ok)
 🔗 [linkedin.com/in/vlad200ok](https://linkedin.com/in/vlad200ok)
 ✈️ [t.me/vlad200ok](https://t.me/vlad200ok)
-📍 Munich, Germany
+📍 Tbilisi, Georgia
 
 ---
 
