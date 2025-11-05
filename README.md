@@ -1,6 +1,6 @@
 # Vladimir Terentev
 
-### Senior Python AI Backend Engineer
+### Senior AI Backend Engineer
 
 📧 [diht404@gmail.com](mailto:diht404@gmail.com)
 💻 [github.com/vlad200ok](https://github.com/vlad200ok)
