@@ -12,7 +12,7 @@
 
 ## Summary
 
-- Senior Backend Engineer with 4+ years building scalable AI infrastructure and LLM-powered systems.
+- Senior Backend Engineer with 5+ years building scalable AI infrastructure and LLM-powered systems.
 - Proven leadership in architecting high-availability platforms, mentoring teams, and bridging ML research with backend engineering.
 - Expert in Python 3.10+, distributed systems, and AI product acceleration.
 
