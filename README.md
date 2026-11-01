@@ -4,7 +4,7 @@
 
 📧 [diht404@gmail.com](mailto:diht404@gmail.com)
 💻 [github.com/vlad200ok](https://github.com/vlad200ok)
-🔗 [linkedin.com/in/vlad200ok](https://linkedin.com/in/vlad200ok)
+🔗 [linkedin.com/in/vlad429](https://linkedin.com/in/vlad429)
 ✈️ [t.me/vlad200ok](https://t.me/vlad200ok)
 📍 Tbilisi, Georgia
 
